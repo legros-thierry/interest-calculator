@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#test de modif pour testé git et github
+
 # C extensions
 *.so
 
